@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/IndiaToday/static/css/main.a4a20492.chunk.css",
-    "main.js": "/github.io/IndiaToday/static/js/main.7151486c.chunk.js",
-    "main.js.map": "/github.io/IndiaToday/static/js/main.7151486c.chunk.js.map",
-    "runtime-main.js": "/github.io/IndiaToday/static/js/runtime-main.153e4e65.js",
-    "runtime-main.js.map": "/github.io/IndiaToday/static/js/runtime-main.153e4e65.js.map",
-    "static/js/2.9f5103a2.chunk.js": "/github.io/IndiaToday/static/js/2.9f5103a2.chunk.js",
-    "static/js/2.9f5103a2.chunk.js.map": "/github.io/IndiaToday/static/js/2.9f5103a2.chunk.js.map",
-    "static/js/3.ab4d162c.chunk.js": "/github.io/IndiaToday/static/js/3.ab4d162c.chunk.js",
-    "static/js/3.ab4d162c.chunk.js.map": "/github.io/IndiaToday/static/js/3.ab4d162c.chunk.js.map",
-    "index.html": "/github.io/IndiaToday/index.html",
-    "static/css/main.a4a20492.chunk.css.map": "/github.io/IndiaToday/static/css/main.a4a20492.chunk.css.map",
-    "static/js/2.9f5103a2.chunk.js.LICENSE.txt": "/github.io/IndiaToday/static/js/2.9f5103a2.chunk.js.LICENSE.txt"
+    "main.css": "/IndiaToday/static/css/main.a4a20492.chunk.css",
+    "main.js": "/IndiaToday/static/js/main.7151486c.chunk.js",
+    "main.js.map": "/IndiaToday/static/js/main.7151486c.chunk.js.map",
+    "runtime-main.js": "/IndiaToday/static/js/runtime-main.d9308868.js",
+    "runtime-main.js.map": "/IndiaToday/static/js/runtime-main.d9308868.js.map",
+    "static/js/2.9f5103a2.chunk.js": "/IndiaToday/static/js/2.9f5103a2.chunk.js",
+    "static/js/2.9f5103a2.chunk.js.map": "/IndiaToday/static/js/2.9f5103a2.chunk.js.map",
+    "static/js/3.ab4d162c.chunk.js": "/IndiaToday/static/js/3.ab4d162c.chunk.js",
+    "static/js/3.ab4d162c.chunk.js.map": "/IndiaToday/static/js/3.ab4d162c.chunk.js.map",
+    "index.html": "/IndiaToday/index.html",
+    "static/css/main.a4a20492.chunk.css.map": "/IndiaToday/static/css/main.a4a20492.chunk.css.map",
+    "static/js/2.9f5103a2.chunk.js.LICENSE.txt": "/IndiaToday/static/js/2.9f5103a2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.153e4e65.js",
+    "static/js/runtime-main.d9308868.js",
     "static/js/2.9f5103a2.chunk.js",
     "static/css/main.a4a20492.chunk.css",
     "static/js/main.7151486c.chunk.js"
